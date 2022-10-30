@@ -1,7 +1,5 @@
 # Hello there; welcome 👋🏾
- [![Linkedin Badge](https://img.shields.io/badge/-emosairueokiemute-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emosairue-okiemute-a70871aa/)](https://www.linkedin.com/in/emosairue-okiemute-a70871aa/) 
-
-I'm a Cloud Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and building useful open-source projects.
+ [![Linkedin Badge](https://img.shields.io/badge/-emosairueokiemute-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emosairue-okiemute-a70871aa/)](https://www.linkedin.com/in/emosairue-okiemute-a70871aa/)
 
 ## Here's a quick summary about me:
 
