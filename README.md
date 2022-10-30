@@ -3,7 +3,7 @@
 
 I'm a Cloud Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and building useful open-source projects.
 
-**Here's a quick summary about me**:
+## Here's a quick summary about me:
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
