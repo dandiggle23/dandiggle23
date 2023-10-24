@@ -6,7 +6,7 @@
 - 😊 Pronouns: He/him
 - 🌱 I never stop learning and getting involved with current hot technologies.
 - 💼 Job interests: DevOps, or Cloud Engineer.
-- 📫 You can contact me by emailing okiemuteemosairue@gmail.com.
+- 📫 You can contact me by emailing danielemosairue@gmail.com.
 
 ## My skills
 - AWS
