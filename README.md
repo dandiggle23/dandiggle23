@@ -9,10 +9,10 @@
 - 📫 You can contact me by emailing danielemosairue@gmail.com.
 
 ## My skills
-- AWS
+- AWS & Azure
 - Git
 - CI/CD tools(Github actions, AWS code pipeline)
-- Containerization technologies(Docker, Kubernetes, AWS EKS)
+- Containerization technologies(Docker, Kubernetes, AWS EKS, AKS)
 - Visualization technologies(Vagrant, Cloud formation)
 - Databases(MySql, AWS RDS)
 - Python
